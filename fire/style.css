@@ -1,0 +1,10 @@
+
+body {
+	 /*corp*/
+	
+	background-image : url("./drag.png");
+	background-repeat : no-repeat;
+	background-size : 50%;
+	
+	color : blue;
+}
